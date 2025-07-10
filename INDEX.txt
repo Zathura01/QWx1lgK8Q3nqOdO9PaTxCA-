@@ -1,0 +1,185 @@
+⚔️ DATA STRUCTURES
+🔹 Linear DS
+Array
+
+Linked List – singly, doubly, circular
+
+Stack – LIFO (use array/LL)
+
+Queue – FIFO
+
+Simple queue
+
+Circular queue
+
+Deque
+
+Priority Queue
+
+🔹 Non-Linear DS
+Tree
+
+Binary Tree
+
+Binary Search Tree (BST)
+
+AVL Tree
+
+Segment Tree
+
+Fenwick Tree (BIT)
+
+Trie
+
+Heap (Min/Max)
+
+Graph
+
+Adjacency List / Matrix
+
+Directed / Undirected
+
+Weighted / Unweighted
+
+🔹 Hashing
+Hash Table / Hash Map
+
+Open addressing
+
+Chaining
+
+Collision resolution
+
+⚙️ ALGORITHMS
+🔹 Sorting
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+Counting Sort
+
+Radix Sort
+
+Bucket Sort
+
+🔹 Searching
+Linear Search
+
+Binary Search
+
+Ternary Search
+
+🔹 Recursion + Backtracking
+Factorial, Fibonacci
+
+Subset/Permutation generation
+
+N-Queens, Sudoku Solver
+
+🔹 Divide & Conquer
+Merge Sort
+
+Quick Sort
+
+Binary Search
+
+🔹 Greedy
+Activity selection
+
+Huffman Coding
+
+Fractional Knapsack
+
+Job Sequencing
+
+Dijkstra’s Algorithm
+
+🔹 Dynamic Programming (DP)
+0/1 Knapsack
+
+Longest Common Subsequence (LCS)
+
+Longest Increasing Subsequence (LIS)
+
+Matrix Chain Multiplication
+
+Coin Change
+
+DP on Trees / Subsets / Grids
+
+🔹 Graph Algorithms
+BFS, DFS
+
+Topological Sort
+
+Dijkstra’s Algorithm
+
+Bellman-Ford
+
+Floyd-Warshall
+
+Prim’s Algorithm
+
+Kruskal’s Algorithm
+
+Disjoint Set (Union-Find)
+
+🔹 Bit Manipulation
+XOR basics
+
+Bit masks
+
+Power of 2 check
+
+Count set bits
+
+🔹 Sliding Window & Two Pointers
+Max sum subarray
+
+Longest substring without repeat
+
+Two sum, three sum
+
+🔹 Math + Number Theory
+Sieve of Eratosthenes
+
+GCD, LCM
+
+Modular arithmetic
+
+Fast Exponentiation
+
+Combinatorics (nCr, Pascal’s triangle)
+
+🔹 Misc
+Top K elements (Heap)
+
+Trie for autocomplete
+
+Rabin-Karp (string hashing)
+
+KMP (pattern matching)
+
+Z-algorithm
+
+Union-Find
+
+Reservoir Sampling
+
+🛠️ Approach:
+Learn theory (definition, time/space, use-case)
+
+Write code from scratch (no libraries)
+
+Do at least 5 problems per topic
+
+Use C++, Java, or Python (stick to one for now)
+

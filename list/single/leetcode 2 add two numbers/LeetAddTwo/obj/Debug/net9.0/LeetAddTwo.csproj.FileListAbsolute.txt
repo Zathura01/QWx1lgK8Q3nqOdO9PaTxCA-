@@ -1,0 +1,14 @@
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\bin\Debug\net9.0\LeetAddTwo.exe
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\bin\Debug\net9.0\LeetAddTwo.deps.json
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\bin\Debug\net9.0\LeetAddTwo.runtimeconfig.json
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\bin\Debug\net9.0\LeetAddTwo.dll
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\bin\Debug\net9.0\LeetAddTwo.pdb
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\obj\Debug\net9.0\LeetAddTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\obj\Debug\net9.0\LeetAddTwo.AssemblyInfoInputs.cache
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\obj\Debug\net9.0\LeetAddTwo.AssemblyInfo.cs
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\obj\Debug\net9.0\LeetAddTwo.csproj.CoreCompileInputs.cache
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\obj\Debug\net9.0\LeetAddTwo.dll
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\obj\Debug\net9.0\refint\LeetAddTwo.dll
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\obj\Debug\net9.0\LeetAddTwo.pdb
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\obj\Debug\net9.0\LeetAddTwo.genruntimeconfig.cache
+C:\web projects\ALW94-DSA\list\single\leetcode 2 add two numbers\LeetAddTwo\obj\Debug\net9.0\ref\LeetAddTwo.dll

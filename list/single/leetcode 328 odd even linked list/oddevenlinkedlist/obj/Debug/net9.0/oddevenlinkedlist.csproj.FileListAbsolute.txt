@@ -1,0 +1,14 @@
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\bin\Debug\net9.0\oddevenlinkedlist.exe
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\bin\Debug\net9.0\oddevenlinkedlist.deps.json
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\bin\Debug\net9.0\oddevenlinkedlist.runtimeconfig.json
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\bin\Debug\net9.0\oddevenlinkedlist.dll
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\bin\Debug\net9.0\oddevenlinkedlist.pdb
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\obj\Debug\net9.0\oddevenlinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\obj\Debug\net9.0\oddevenlinkedlist.AssemblyInfoInputs.cache
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\obj\Debug\net9.0\oddevenlinkedlist.AssemblyInfo.cs
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\obj\Debug\net9.0\oddevenlinkedlist.csproj.CoreCompileInputs.cache
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\obj\Debug\net9.0\oddevenlinkedlist.dll
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\obj\Debug\net9.0\refint\oddevenlinkedlist.dll
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\obj\Debug\net9.0\oddevenlinkedlist.pdb
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\obj\Debug\net9.0\oddevenlinkedlist.genruntimeconfig.cache
+C:\web projects\ALW94-DSA\list\single\leetcode 328 odd even linked list\oddevenlinkedlist\obj\Debug\net9.0\ref\oddevenlinkedlist.dll
